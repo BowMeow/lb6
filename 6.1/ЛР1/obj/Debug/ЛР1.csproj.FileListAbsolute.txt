@@ -1,0 +1,33 @@
+C:\Users\kaban\source\repos\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\kaban\source\repos\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\kaban\source\repos\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.Form1.resources
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.Properties.Resources.resources
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.GenerateResource.cache
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\kaban\source\repos\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.Form1.resources
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.Properties.Resources.resources
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.GenerateResource.cache
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\kaban\OneDrive\Рабочий стол\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.AssemblyReference.cache
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.exe
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.pdb
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\bin\Debug\ЛР1.exe.config
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\bin\Debug\ЛР1.exe
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\bin\Debug\ЛР1.pdb
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.Form1.resources
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.Properties.Resources.resources
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.GenerateResource.cache
+C:\Users\kaban\OneDrive\Рабочий стол\5 лр\ЛР1\ЛР1\obj\Debug\ЛР1.csproj.CoreCompileInputs.cache
